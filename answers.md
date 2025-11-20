@@ -13,7 +13,7 @@ Place all written answers from `recitation-08.md` here for easier grading.
 - **1b)**
 let V be the num of vertices and E the num of edges
 W=O(ElogV)
-S=(ElogV)
+S=(VlogV)
 
 - **2b)**
 let L be the shortest path to the destination (L<=V-1)
